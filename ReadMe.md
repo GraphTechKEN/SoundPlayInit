@@ -15,6 +15,7 @@ BVE起動時から[特定サウンド]を[特定キーが押されるまで]鳴�
 > [!WARNING]
 > `ご使用は自己責任でお願いいたします。本内容による損害等については一切の責任を負いません。`
 
+## 謝辞
 本プラグインはTstsuOtter様のBVE_ATSPITempを使用して記述しております。  
 BVE_ATSPITemp(https://github.com/TetsuOtter/BVE_ATSPITemp)
 厚く御礼申し上げます。
